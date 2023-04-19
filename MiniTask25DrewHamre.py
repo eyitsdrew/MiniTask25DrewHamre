@@ -99,14 +99,37 @@ print(AnswerFunc)
 
 # Use len to print how many questions are in the questionList
 
+
 numQuestions = len(questionList)
-print("number of questions is:", + numQuestions)
+print("number of questions is", + numQuestions)
+
+#for i in getInfo
 
 # Use a for loop to print the category and value of each question in questionList
 
-for i in questionList:
-    print("CATAGORY: " + (Catagory))
-    print("VALUE: " + (Value))
+    
 
 ### End Step Four ###
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# singleQuestionCSV = "Cats,100,Cats hate this,water"
+# CATEGORY = 0
+# VALUE = 1
+# QUESTION = 2
+# ANSWER = 3
